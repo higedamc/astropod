@@ -12,12 +12,15 @@
   "explicit": false,
   "cover": "/cover.jpg",
   "language": "en",
-  "link": "https://your-website-url.netlify.app",
-  "email": "your.email@gmail.com",
-  "description": "A short description of your podcast. We suggest creating a podcast description between 600-900 characters or 120-170 words in length.",
+  "link": "https://shimmering-sopapillas-2d7334.netlify.app/",
+  "email": "theuncounted@keemail.me",
+  "description": "This program is a podcast where Kohei, a privacy & security-centric anarchist and digital prepper, and Nakaumin, a member of the Izumo tribe aiming for the abolition of labor and an off-grid autonomous society, discuss various topics including politics, economy, technology, music, religion, spirituality, and more.",
   "category": [
     "Technology",
-    "Business"
+    "Politics",
+    "Spirituality",
+    "Music",
+    "Culture"
   ],
   "feedSize": ""
 }
