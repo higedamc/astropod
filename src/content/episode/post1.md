@@ -1,6 +1,6 @@
 ---
 title: THE UNCOUNTED VOL.1 ~AI自動化革命=AI大失業とベーシックインカム~
-audioUrl: https://ia800505.us.archive.org/15/items/astropod/1%20-%20Trailer%20with%20BG%20%28enhanced%29.ogg
+audioUrl: https://cdn.satellite.earth/9d0f85b6a99b1cb34e88aff92e8f1e1688551e3019e4ef243ee1b65d1a3dfd24.wav
 pubDate: July 17 2024
 duration: 01:10:33
 size: 0.7
