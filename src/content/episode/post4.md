@@ -4,7 +4,7 @@ audioUrl: https://cdn.satellite.earth/a7d315e4b746ffbac95f5368f6980cc42566092904
 pubDate: August 8 2024
 duration: 02:01:26
 size: 0.7
-cover: "/cover.jpg"
+cover: "/cover4.jpg"
 explicit: false
 episode: 4
 season: 1
