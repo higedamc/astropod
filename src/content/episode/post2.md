@@ -4,7 +4,7 @@ audioUrl: https://cdn.satellite.earth/e6821a1d228e8a4266be8cc7001d476fe69d9b19a1
 pubDate: July 18 2024
 duration: 00:56:19
 size: 0.7
-cover: "/cover.png"
+cover: "/cover.jpg"
 explicit: false
 episode: 2
 season: 1

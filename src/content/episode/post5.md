@@ -4,7 +4,7 @@ audioUrl: https://cdn.satellite.earth/a34b75856277a6c658e913ac8a955691bf24923064
 pubDate: August 24 2024
 duration: 01:47:08
 size: 0.7
-cover: "/theuncounted_5_cover.png"
+cover: "/cover5.png"
 explicit: false
 episode: 5
 season: 1
