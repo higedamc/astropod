@@ -4,7 +4,7 @@ audioUrl: https://cdn.satellite.earth/8a6668aca8dc5ec7de39b2b0f511bb2fbb161a6841
 pubDate: Sep 21 2024
 duration: 00:38:14
 size: 0.7
-cover: "/cover.jpg"
+cover: "/cover6.jpg"
 explicit: false
 episode: 6
 season: 1
