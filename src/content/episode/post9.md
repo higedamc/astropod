@@ -4,7 +4,7 @@ audioUrl: https://cdn.satellite.earth/caa4b39f368843708a56afceb91a27843a7c42fe03
 pubDate: Nov 24 2024
 duration: 00:41:06
 size: 0.7
-cover: "/cover8.jpg"
+cover: "/cover9.jpg"
 explicit: false
 episode: 9
 season: 1
